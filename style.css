@@ -1,0 +1,110 @@
+
+.first_line {
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.fl_fc {
+    padding-right: 4px;
+}
+
+.fl_sc {
+    padding-right: 4px;
+ }
+
+.fl_tc {
+    padding-right: 4px;
+}
+
+.fl_foc {
+    padding-right: 4px;
+}
+
+.second_line {
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.sl_fc {
+    padding-right: 4px;
+}
+
+.sl_sc {
+    padding-right: 4px;
+}
+
+.sl_tc {
+    padding-right: 4px;
+}
+
+.sl_foc {
+    padding-right: 4px;
+}
+
+.third_line {
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.tl_fc {
+    padding-right: 4px;
+}
+
+.tl_sc {
+    padding-right: 4px;
+}
+
+.tl_tc {
+    padding-right: 4px;
+}
+
+.tl_foc {
+    padding-right: 4px;
+}
+
+.fourth_line {
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.fol_fc {
+    padding-right: 4px;
+}
+
+.fol_sc {
+    padding-right: 4px;
+}
+
+.fol_tc {
+    padding-right: 4px;
+}
+
+.fol_foc {
+    padding-right: 4px;
+}
+
+.five_line {
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+}
+
+.fil_fc {
+    padding-right: 4px;
+}
+
+.fil_sc {
+    padding-right: 4px;
+}
+
+.fil_tc {
+    padding-right: 4px;
+}
+
+.fil_foc {
+    padding-right: 4px;
+}
